@@ -52,7 +52,7 @@
   [XCTestについて](https://hira22.github.io/Articles/XCTest.html)
 - SwiftUI, Combine を導入して開発効率の改善に取り組みました。
 
-  UIKit で作られた既存のプロジェクトに SwifyUI を導入する設計を考えました。
+  UIKit で作られた既存のプロジェクトに SwiftUI を導入する設計を考えました。
 
   [既存のUIKitのプロジェクトにSwiftUIを導入する](https://hira22.github.io/Articles/既存のUIKitのプロジェクトにSwiftUIを導入する.html)
 - Interface Builder を使ってきたので UIKit の UI をコードで構築するのはあまり経験がありません。
