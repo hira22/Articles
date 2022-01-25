@@ -48,7 +48,7 @@ struct ContentView: View {
     @EnvironmentObject private var presentation: Presentation
 
     var body: some View {
-
+        ZStack {
             Color(.secondary)
 
             Text("Hello, World!").padding()
